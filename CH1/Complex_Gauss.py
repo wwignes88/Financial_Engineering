@@ -1,5 +1,4 @@
 import numpy as np
-from helpful_scripts import arrange_reduced_mat
 Tol_ = 1e-10
 
 
